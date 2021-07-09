@@ -1,1 +1,9 @@
-# K2-Magento-2-Product-Delete-SKU
+## K2 - Magento 2 - Product Delete - SKU
+
+This code simply allows you to delete products based on SKU's.
+
+### How to use:-
+1. Switch to Magento root folder.
+2. Change/Add the Product SKU's in the file and run it.
+
+**Magento supported version** - Tested on Magento 2.3.x
