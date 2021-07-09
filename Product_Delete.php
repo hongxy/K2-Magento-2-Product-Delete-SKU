@@ -4,6 +4,8 @@
  * Deletes Products Based On Product SKU
  * Put the file in root folder where Magento is installed (/home/kitto/public_html/)
  * Tested on Magento 2.3.7
+ * Author:- Basant Mandal | Kitto
+ * https://www.techbasant.in
  * Last Updated - 05-July-2021
  */
 
