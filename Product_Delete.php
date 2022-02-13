@@ -20,10 +20,8 @@ require __DIR__ . '/app/bootstrap.php';
 $params    = $_SERVER;
 $bootstrap = Bootstrap::create(BP, $params);
 
-// Define Products SKU to Delete
-$products[] = 'Product_SKU1';
-$products[] = 'Product_SKU2';
-$products[] = 'Product_SKU3';
+// Define Products SKU to Delete  (you can get all sku from mysql table: catalog_product_entity)
+$products = ['50002A','50000','22089A','22090','50002B','22006','20104','20240','22099','60001','60100','60000'];
 $counter    = 1;
 
 /**
